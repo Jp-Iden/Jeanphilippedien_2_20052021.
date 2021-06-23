@@ -1,4 +1,4 @@
-@media screen and (max-width: 1600px)
+@media screen and (max-width: 1200px)
 /*  hébergements populaires */
 { 
   .populaires{
@@ -435,7 +435,7 @@
   }
 }
 
-@media all and (min-width: 900px) {
+@media all and (min-width: 900px){
   .button2 i{
     display: none;
   }
