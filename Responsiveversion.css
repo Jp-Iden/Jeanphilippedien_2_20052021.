@@ -17,7 +17,6 @@
       width: 96%;
       margin-left: 10px;
   }
-  
 }
 
 /*largeur max 900px */
@@ -140,6 +139,10 @@
 .Populaire-titre{
   padding-left: 20px;
 }
+.sizepop
+  {
+      font-size: 15px;
+  }
 
 .header-Populaires p{
     padding-right: 20px;
@@ -362,7 +365,7 @@
   .header-Hebergements h2{
       font-size: 1.2em;
   }
-
+  
   .header-Hebergements{
       padding-left: 0px;
   }
@@ -445,6 +448,6 @@
   .border-Top-acti2:hover{
       border-top: 2px solid #0065fc;
   }
-}
+ }
 
 
